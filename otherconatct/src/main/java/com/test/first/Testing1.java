@@ -5,9 +5,9 @@ public class Testing1 {
 
         for(int i=0; i<10; i++ ){
 
-            System.out.println("Hello This is the 2nd ");
+            System.out.println(i +" Hello This is the 2nd ");
         }
-        System.out.println(" This is after for loop ");
+        System.out.println(" This is after for loop i become "+ i);
     }
 
 

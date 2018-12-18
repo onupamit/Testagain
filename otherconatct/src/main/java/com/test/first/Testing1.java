@@ -7,6 +7,7 @@ public class Testing1 {
 
             System.out.println("Hello This is the 2nd ");
         }
+        System.out.println(" This is after for loop ");
     }
 
 
